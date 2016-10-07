@@ -1,0 +1,25 @@
+{
+  "name": "slides-beerjs-17",
+  "version": "0.0.1",
+  "description": "Buenas practicas en el desarrollo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cleaver watch index.md",
+    "build": "cleaver index.md",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulghm/slides-beerjs-17.git"
+  },
+  "keywords": [],
+  "author": "Raul Hernandez <raulghm@gmail.com> (http://raulghm.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raulghm/slides-beerjs-17/issues"
+  },
+  "homepage": "https://github.com/raulghm/slides-beerjs-17#readme",
+  "devDependencies": {
+    "cleaver": "^0.8.2"
+  }
+}
